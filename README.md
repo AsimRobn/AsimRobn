@@ -10,4 +10,3 @@ Ethical hacker passionate about penetration testing.
 
 ## 📫 Contact
 - GitHub: https://github.com/AsimRobn
-- Email: AsimRobn@example.com
